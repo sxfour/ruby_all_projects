@@ -1,8 +1,7 @@
 # RubyPortScanner
 # Многопоточный сканер портов на Ruby по IP Диапозонам.
 
-https://user-images.githubusercontent.com/112577182/235857690-54ffc866-9bb9-433b-816e-9e2a5a766dcd.mp4
-
+https://github.com/sxfour/ruby_all_projects/assets/112577182/ed6ca33d-4572-4fca-97d3-55a1b5285751
 
 # Пул запуска
 
